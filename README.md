@@ -1,9 +1,7 @@
-<<<<<<< HEAD
-# Laboratory-management-system
-=======
+
 # **开源项目Laboratory-management-system----实验室管理系统（前后台基于SpringBoot+Vue）**
 
-[TOC]
+
 
 ### 前言
 
@@ -108,4 +106,4 @@
 
 
 
->>>>>>> b29a890 (README更新)
+
