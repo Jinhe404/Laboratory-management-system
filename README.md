@@ -30,6 +30,7 @@
 ![f20ba7184f13e95cae212ec8f884e7f](E:\软件\typora做的笔记\博客笔记\图片\f20ba7184f13e95cae212ec8f884e7f.jpg)
 
 实验室管理后台：
+图片可以访问我的博客地址：https://blog.csdn.net/weixin_44857463/article/details/128882780?spm=1001.2014.3001.5502
 
 ![图片3](E:\软件\typora做的笔记\博客笔记\图片\图片3.png)
 
